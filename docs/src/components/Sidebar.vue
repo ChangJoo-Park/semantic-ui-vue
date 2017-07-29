@@ -16,6 +16,7 @@
       <div class="header">Elements</div>
       <div class="menu">
         <router-link exact to="/elements/button.html"><div class="item">Button</div></router-link>
+        <router-link exact to="/elements/divider.html"><div class="item">Divider</div></router-link>
       </div>
     </div>
     <div class="item">
